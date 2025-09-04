@@ -78,4 +78,4 @@ Built with ❤️ by Avanish Shukla
 
 ---
 
-👉 Do you want me to also make a **requirements.txt** for you (so GitHub users can install everything easily)?
+
